@@ -14,7 +14,6 @@
   <img align="center" alt="KOTD-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="KOTD-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="KOTD-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="right" width="75px" height="45px" alt="KOTD" src="https://steamuserimages-a.akamaihd.net/ugc/961969524128399188/C2A006B860AA5B888B4138AFA7139DFB71F8EDE6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
   
  ##
