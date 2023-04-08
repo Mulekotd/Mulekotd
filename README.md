@@ -1,4 +1,4 @@
-## Hello World!💻
+# Hello, World! 💻
 
 - 🌱 I’m currently studing C++, C#, PHP, HTML, CSS, JS, SQL;
 - 🤔 I’m looking for help with React.JS and Vue;
