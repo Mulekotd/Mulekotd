@@ -5,7 +5,7 @@ My name is João Pedro, and I'm a technology enthusiast and developer.
 I currently have experience with PHP, JS, SQL, React.js, Docker, and Node.js. Additionally, I'm focused on learning more about C#, C++, and PostgreSQL to further expand my knowledge.
 
 - 🎓 I graduated from technical high school in IT at Instituto Federal do Rio de Janeiro in 2023
-- 🌱 I'm currently working as DevOps Engineer at Projeto LAST II.
+  - 🌱 I'm currently working as Frontend Developer at FSTec.
 - 🤝 I'm seeking for new programming partners.
 
 <div>
