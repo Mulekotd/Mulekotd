@@ -1,43 +1,39 @@
 # Hello, World! 💻
+Hey there! I'm **João Pedro**, a **Full-Stack Developer** from Brazil. I specialize in building web applications with a focus on performance, scalability, and user experience.
 
-My name is João Pedro, and I'm a technology enthusiast and developer.
+## 🚀 About me
+- 🎓 **Education**: IT Technical Graduate from Instituto Federal do Rio de Janeiro (2023)
+- 💼 **Current Role**: Frontend Developer at [FSTec](https://fstec.company/)
+- 🔥 **Passion**: Building applications that solve real-world problems
 
-I currently have experience with PHP, JS, SQL, React.js, Docker, and Node.js. Additionally, I'm focused on learning more about C#, C++, and PostgreSQL to further expand my knowledge.
+## 🛠️ Technologies & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+</div>
 
-- 🎓 I graduated from technical high school in IT at Instituto Federal do Rio de Janeiro in 2023
-  - 🌱 I'm currently working as Frontend Developer at FSTec.
-- 🤝 I'm seeking for new programming partners.
-
+## 📊 GitHub Statistics
 <div>
   <a href="https://github.com/Mulekotd">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mulekotd&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulekotd&layout=compact&langs_count=7&theme=synthwave"/>
   </a>
-</div>
-
-<div style="text-align: center;">
-  <h3>Knowledge</h3>
-  <img align="center" alt="KOTD-DOCKER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="KOTD-REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="KOTD-POSTGRES" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="KOTD-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="KOTD-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="KOTD-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="KOTD-PROMETHEUS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg">
-  <img align="center" alt="KOTD-GRAFANA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg">
-  <img align="center" alt="KOTD-FIREBASE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="KOTD-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="KOTD-LINUX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="KOTD-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="KOTD-NGINX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
-  <img align="center" alt="KOTD-NODEJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
-
-##
-
-<div> 
-  <a href="https://www.youtube.com/channel/UC-hOJzGdK4HPYLUna4ccBrw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mulekotd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/464554898596298762/464555306354212875" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:joaopedro.gama0675@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
