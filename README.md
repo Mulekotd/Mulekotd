@@ -1,5 +1,5 @@
 # Hello, World! 💻
-Hey there! I'm **João Pedro**, a **Full-Stack Developer** from Brazil. I specialize in building web applications with a focus on performance, scalability, and user experience.
+Hey there! I'm **João Pedro**, a **Full-Stack Developer** from Brazil. I specialize in building web applications with a focus on performance, scalability, and user experience. For more details about me, visit my [portfolio](https://mulekotd.github.io/portfolio/).
 
 ## 🚀 About me
 - 🎓 **Education**: IT Technical Graduate from IFRJ
@@ -30,12 +30,4 @@ Hey there! I'm **João Pedro**, a **Full-Stack Developer** from Brazil. I specia
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-</div>
-
-## 📊 GitHub Statistics
-<div>
-  <a href="https://github.com/Mulekotd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mulekotd&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulekotd&layout=compact&langs_count=7&theme=synthwave"/>
-  </a>
 </div>
